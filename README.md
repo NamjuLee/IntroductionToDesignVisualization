@@ -1,19 +1,12 @@
-# workshop at Harvard Graduate School of Design
+# Introduction to Design Visualization
+## workshop content
 
-Please use this content only for educational purpose, not for commercial one
+Please use this content only for educational purpose
 
-The aim of this workshop is to provide students with a knowledge of 3D visualization and Post-Production in architecture, landscape architecture and urban design domains. 
+nj.namju@gmail.com
 
-* The rendering sequence files are excluded because they are simple too big.
-* some files above 100mb are excluded because of the limitation. 
-If you need to get entire exercise files, please contact me nj.namju@gmail.com
+[![YouTube ](/img/v1.png)](https://www.youtube.com/watch?v=swEjzprtEog)
 
-[![YouTube ](/image/video.png)](https://www.youtube.com/watch?v=3VeLfmt2N-0) 
+[![YouTube ](/img/v2.png)](https://www.youtube.com/watch?v=3VeLfmt2N-0) 
 
 
-### Introduction To 3DVisualization
-* 
-  
-  
-### Introduction To Post Production
-* 
