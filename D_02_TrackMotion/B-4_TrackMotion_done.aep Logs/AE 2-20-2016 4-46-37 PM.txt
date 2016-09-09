@@ -1,0 +1,12 @@
+Adobe After Effects v13.5 Windows 64 render log for project “B-4_TrackMotion_done.aep”
+
+Rendering started on 2/20/2016 at 4:46:37 PM
+
+  2/20/2016 4:46:37 PM: Starting composition “B-4_TrackMotion”.
+
+  Output To: C:\Users\User\Desktop\B-4_TrackMotion.mov    2/20/2016 4:46:55 PM: Finished composition “B-4_TrackMotion”.
+
+
+  Total Time Elapsed: 18 Seconds
+Log closed on 2/20/2016 at 4:46:55 PM
+
